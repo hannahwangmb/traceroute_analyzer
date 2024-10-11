@@ -1,0 +1,197 @@
+The IP address of the source node: 192.168.0.108
+The IP address of ultimate destination node: 4.2.2.2
+The IP addresses of the intermediate destination nodes:
+      router 1: 142.104.69.243
+      router 2: 142.104.68.1
+      router 3: 192.168.9.5
+      router 4: 192.168.10.1
+      router 5: 142.104.252.246
+      router 6: 142.104.250.37
+      router 7: 207.23.241.221
+      router 8: 67.69.244.53
+      router 9: 64.230.122.248
+      router 10: 64.230.77.230
+      router 11: 64.230.77.228
+      router 12: 64.230.79.98
+      router 13: 64.230.125.233
+      router 14: 64.230.125.231
+      router 15: 4.71.152.53
+      router 16: 4.69.152.15
+
+The values in the protocol field of IP headers:
+      17: UDP
+      1: ICMP
+
+The number of fragments created from the original datagram 21908 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram 21909 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram 21910 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram 21911 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram 21912 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram 21913 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram 21914 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram 21915 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram 21916 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram 21917 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram 21918 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram 21919 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram 21920 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram 21921 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram 21922 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram 21923 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram 21924 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram 21927 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram 21928 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram 21929 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram 21930 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram 21931 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram 21932 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram 21933 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram 21934 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram 21935 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram 21938 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram 21939 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram 21940 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram 21941 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram 21942 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram 21943 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram 21944 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram 21945 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram 21946 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram 21948 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram 21949 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram 21950 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram 21951 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram 21953 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram 21954 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram 21955 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram 21956 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram 21957 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram 21958 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram 21959 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram 21961 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram 21962 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram 21963 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram 21966 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram 21969 is: 2
+The offset of the last fragment is: 1480
+
+The number of fragments created from the original datagram 21970 is: 2
+The offset of the last fragment is: 1480
+
+The avg RTT between 192.168.0.108 and 142.104.69.243 is: 9.44 ms, the s.d. is: 5.6 ms
+The avg RTT between 192.168.0.108 and 142.104.68.1 is: 17.61 ms, the s.d. is: 0.23 ms
+The avg RTT between 192.168.0.108 and 192.168.9.5 is: 18.39 ms, the s.d. is: 0.22 ms
+The avg RTT between 192.168.0.108 and 192.168.10.1 is: 19.87 ms, the s.d. is: 0.0 ms
+The avg RTT between 192.168.0.108 and 142.104.252.246 is: 12.2 ms, the s.d. is: 0.18 ms
+The avg RTT between 192.168.0.108 and 142.104.250.37 is: 15.17 ms, the s.d. is: 0.04 ms
+The avg RTT between 192.168.0.108 and 207.23.241.221 is: 55.42 ms, the s.d. is: 5.06 ms
+The avg RTT between 192.168.0.108 and 67.69.244.53 is: 11.32 ms, the s.d. is: 1.25 ms
+The avg RTT between 192.168.0.108 and 64.230.122.248 is: 13.88 ms, the s.d. is: 0.43 ms
+The avg RTT between 192.168.0.108 and 64.230.77.230 is: 14.96 ms, the s.d. is: 0.0 ms
+The avg RTT between 192.168.0.108 and 64.230.77.228 is: 15.49 ms, the s.d. is: 1.78 ms
+The avg RTT between 192.168.0.108 and 64.230.79.98 is: 15.39 ms, the s.d. is: 1.04 ms
+The avg RTT between 192.168.0.108 and 64.230.125.233 is: 18.73 ms, the s.d. is: 0.0 ms
+The avg RTT between 192.168.0.108 and 64.230.125.231 is: 19.08 ms, the s.d. is: 0.07 ms
+The avg RTT between 192.168.0.108 and 4.71.152.53 is: 127.61 ms, the s.d. is: 0.29 ms
+The avg RTT between 192.168.0.108 and 4.69.152.15 is: 30.66 ms, the s.d. is: 1.05 ms
+The avg RTT between 192.168.0.108 and 4.2.2.2 is: 29.06 ms, the s.d. is: 1.21 ms
